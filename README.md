@@ -1,5 +1,5 @@
 My .xlsx file is in the a03 directory [here.](a03/a03.xlsx) <br />
-My exported .csv fils is also in the a03 directory [here.](a03/Movie.csv)
+My exported .csv file is also in the a03 directory [here.](a03/Movie.csv)
 ![f](a03/a03screenshots/101.png)
 ![f](a03/a03screenshots/102.png)
 ![f](a03/a03screenshots/103.png)
